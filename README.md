@@ -31,3 +31,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp
 </div>
+
+---
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/karpovIlya/badges/large)
