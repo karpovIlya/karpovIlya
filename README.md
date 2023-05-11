@@ -4,7 +4,7 @@
 
 ### :man_technologist: Обо мне:
 
-Junior frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 6 месяцев опыта работы в компании WebTag, сейчас разрабатываю web-приложение Junior Job - аналог hh, рассчитанный на подростковую аудиторию для рабочей группы НСИ в регионе. Мой основной фреймворк -  vue js, но я открыт к изучению новых технологий.
+Junior frontend-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 6 месяцев опыта работы в компании WebTag, сейчас разрабатываю web-приложение Junior Job - аналог hh, рассчитанный на подростковую аудиторию для рабочей группы НСИ в регионе. Мой основной фреймворк - vue js, но я открыт к изучению новых технологий.
 
 
 ---
